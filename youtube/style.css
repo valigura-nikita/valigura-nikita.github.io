@@ -1,0 +1,35 @@
+img{
+    width: 100%;
+}
+.youtube-word{
+      font-family: "Inter", sans-serif;
+color: red;
+}
+.line-bg-color{
+    background-color: #4e0303;
+    height: 45px;
+}
+
+/* 
+ 
+ 
+ 
+
+
+
+  */
+h1{
+ font-family: "Onest", sans-serif;
+   font-family: "Bellota", system-ui;
+
+}
+h2{
+ font-family: "Plfayfair Display", serif;
+}
+h3{
+
+  font-family: "Alumni Sans", sans-serif;
+}
+p{
+ font-family: "Oswald", sans-serif;
+}
