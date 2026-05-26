@@ -1,0 +1,25 @@
+ .server-card {
+            background-color: #1e1e1e;
+            border: 2px solid #333;
+            transition: transform 0.2s, border-color 0.2s;
+        }
+        .server-card:hover {
+            transform: translateY(-3px);
+            border-color: #55ff55;
+        }
+        .server-icon {
+            width: 64px;
+            height: 64px;
+            border-radius: 8px;
+            background-color: #2c2c2c;
+        }
+        .ip-badge {
+            cursor: pointer;
+            background-color: #2c2c2c;
+            border: 1px dashed #555;
+            transition: all 0.2s;
+        }
+        .ip-badge:hover {
+            background-color: #3d3d3d;
+            border-color: #ffff55;
+        }
